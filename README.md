@@ -1,2 +1,2 @@
-# project
+# project example
 This project is an example of git features
